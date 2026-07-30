@@ -12,3 +12,10 @@
 |:--:|:--:|
 |10| Sum results: 40|
 |30|
+
+### <ins>Exercise 02</ins>
+
+#### Write a program that reads the radius of a circle and prints its area with four decimal places, as shown in the examples.
+
+#### Use the formula: area = π × radius²
+#### Assume: π = 3.14159
