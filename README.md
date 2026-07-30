@@ -24,3 +24,18 @@
 |-|-|
 | 2.00 | Area = 12.5664 |
 |100.64| Area = 31819.3103 |
+
+### <ins>Exercise 03</ins>
+
+#### Write a program that reads four integer values: A, B, C and D. Then, calculate and display the difference between the product of A and B and the product of C and D, using the following formula:
+
+#### DIFFERENCE = (A * B - C * D)
+
+#### Example:
+
+| In | Out |
+|:---:|:---:|
+| 5 | DIFFERENCE = -26 |
+| 6 |
+| 7 |
+| 8 |
