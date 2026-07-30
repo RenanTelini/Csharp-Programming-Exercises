@@ -19,3 +19,8 @@
 
 #### Use the formula: area = π × radius²
 #### Assume: π = 3.14159
+
+| In | Out |
+|-|-|
+| 2.00 | Area = 12.5664 |
+|100.64| Area = 31819.3103 |
