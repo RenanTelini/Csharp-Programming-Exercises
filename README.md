@@ -66,3 +66,27 @@ In | Out
 | 16 |
 | 2 |
 | 5.10 |
+
+### <ins>Exercise 06</ins>
+
+#### Write a program that reads three double-precision floating-point numbers, A, B and C. Then, calculate and display the following:
+
+<strong>
+    <ol type=a>
+        <li>The area of the right triangle with base A and height C.
+        <li>The area of the circle with radius C (π = 3.14159).
+        <li>The area of the trapezoid with bases A and B and height C.
+        <li>The area of the square with side B.
+        <li>The area of the rectangle with sides A and B.
+    </ol>
+</strong>
+
+#### Example: 
+
+| In | Out
+| :-: | :-: |
+| 3.0 4.0 5.2 | Triangle: 7.800 
+||Circle: 84.949 
+||Trapezoid: 18.200 
+||Square: 16.000 
+||Rectangle: 12.000
