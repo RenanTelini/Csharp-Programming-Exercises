@@ -56,6 +56,8 @@ In | Out
 
 #### Write a program to read the code of part 1, the number of part 1, and the unit price of each part 1, the code of part 2, the number of part 2, and the unit price of each part 2. Calculate and display the amount to be paid.
 
+#### Example:
+
 | In | Out
 | :-: | :-: 
 | 12 | Total to be paid: U$ 15.50 |
