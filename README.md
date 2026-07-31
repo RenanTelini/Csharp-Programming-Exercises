@@ -39,3 +39,15 @@
 | 6 |
 | 7 |
 | 8 |
+
+### <ins>Exercise 03</ins>
+
+#### Write a program that reads an employee's ID, the number of hours worked, and their hourly rate. Then, calculate the employee's salary and display the employee's ID and salary, formatted to two decimal places.
+
+#### Example:
+
+In | Out
+:-: | :-:
+25 | Number = 25 Salary = U$ 550.50
+100 |
+5.50 |
