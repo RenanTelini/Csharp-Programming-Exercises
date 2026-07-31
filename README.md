@@ -52,7 +52,7 @@ In | Out
 100 |
 5.50 |
 
-### <u>Exercise 5</u>
+### <ins>Exercise 05</ins>
 
 #### Write a program to read the code of part 1, the number of part 1, and the unit price of each part 1, the code of part 2, the number of part 2, and the unit price of each part 2. Calculate and display the amount to be paid.
 
