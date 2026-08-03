@@ -113,7 +113,7 @@ In | Out
 | 12 | Even number! |
 | -27 | Odd number! |
 
-### <ins>Exercise 02</ins>
+### <ins>Exercise 03</ins>
 
 #### Read two integers (A and B). Determine whether they are multiples of each other, then display either "They are multiples!" or "They are not multiples!". The numbers may be entered in either ascending or descending order.
 
