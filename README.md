@@ -90,3 +90,9 @@ In | Out
 ||Trapezoid: 18.200 
 ||Square: 16.000 
 ||Rectangle: 12.000
+
+## Conditional Structure
+
+### <ins>Exercise 01</ins>
+
+#### Write a program to read an integer and determine whether it is negative.
