@@ -96,3 +96,8 @@ In | Out
 ### <ins>Exercise 01</ins>
 
 #### Write a program to read an integer and determine whether it is negative.
+
+| In | Out |
+|:-:|:-:|
+| -10 | Negative Number |
+| 8 | Positive Number |
