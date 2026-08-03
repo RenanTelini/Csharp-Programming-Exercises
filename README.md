@@ -101,3 +101,14 @@ In | Out
 |:-:|:-:|
 | -10 | Negative Number |
 | 8 | Positive Number |
+
+### <ins>Exercise 02</ins>
+
+#### Write a program to read an integer and determine whether it is even or odd.
+
+#### Example: 
+
+| In | Out |
+|:-:|:-:|
+| 12 | Even number! |
+| -27 | Odd number! |
