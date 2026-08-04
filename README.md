@@ -150,3 +150,16 @@ In | Out
 | 3 | Bacon Cheeseburguer | $ 5.00|
 | 4 | Plain Toast | $ 2.00 |
 | 5 | Soft Drink | $ 1.50 |
+
+### <ins>Exercise 06</ins>
+
+#### Write a program that reads a value and displays a message indicating which of the following intervals the value belongs to: (0, 25), (25, 50), (50, 75) or (75, 100). If the value does not fall within any of these intervals, print the message "Out of interval".
+
+#### Example: 
+
+| In | Out |
+|-|-|
+| 25.01 | Range (25, 50) |
+| 25.00 | Range (0, 25) |
+| 100.00 | Range (75, 100) |
+| -25.02 | Number out of range |
