@@ -136,3 +136,17 @@ In | Out
 | 16 2 | The game lasted: 10 hour(s) |
 | 2 16 | The game lasted: 14 hour(s) |
 | 0 0 | The game lasted: 24 hour(s) |
+
+### <ins>Exercise 05</ins>
+
+#### Based on the price table below, write a program that reads the item code and the quantity of the corresponding item. Then, calculate and display the total amount due.
+
+#### Example: 
+
+| Code | Specification | Price |
+|:--|:--:|--:|
+| 1 | Hot Dog | $ 4.00 |
+| 2 | Cheeseburguer with Lettuce and Tomato | $ 4.50 |
+| 3 | Bacon Cheeseburguer | $ 5.00|
+| 4 | Plain Toast | $ 2.00 |
+| 5 | Soft Drink | $ 1.50 |
