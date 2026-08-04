@@ -124,3 +124,15 @@ In | Out
 | 6 24 | They are multiples! |
 | 24 6 | They are multiples! |
 | 3 11 | They are not multiples! |
+
+### <ins>Exercise 04</ins>
+
+#### Read the start time and end time of a game. Calculate the duration of the game, considering that it may start on one day and end on the next. The game lasts at least 1 hour and at most 24 hours.
+
+#### Example: 
+
+| In | Out |
+|-|-|
+| 16 2 | The game lasted: 10 hour(s) |
+| 2 16 | The game lasted: 14 hour(s) |
+| 0 0 | The game lasted: 24 hour(s) |
