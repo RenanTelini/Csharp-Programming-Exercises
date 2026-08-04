@@ -175,3 +175,28 @@ In | Out
 | 4.5 -2.2 | Q4 |
 | 0.1 0.1 | Q1 |
 | 0.0 0.0 | Origen |
+
+### <ins>Exercise 08</ins>
+
+#### In an imaginary country called Lisarb, all citizens are happy to pay their taxes because they know there are no corrupt politicians and that the collected funds are used for the benefit of the population, without any misappropriation. The country's currency is the Rombus, represented by the symbol R$.
+
+#### Read a value with two decimal places representing a person's salary in Lisarb. Then, calculate and display the amount of Income Tax this person must pay according to the table below.
+
+
+| Income | Income Tax |
+| :----: | :--------: |
+| From R$ 0.00 to R$ 2,000.00 | Tax-exempt |
+| From R$ 2,001.00 to R$ 3,000.00 | 8% |
+| From R$ 3,001.00 to R$ 4.500,00 | 18% |
+| Above R$ 4.500,00 | 28% |
+
+
+#### Note that if the salary is R$ 3002.00, the 8% tax rate applies only to R$ 1000.00, since the salary range from R$ 0.00 to R$ 2000.00 is exempt from Income Tax. In the example below, the tax is calculated as 8% of R$ 1000.00 plus 18% of R$ 2.00, resulting in a total of R$ 80.36. Print the result with two decimal places.
+
+#### Example: 
+
+| In | Out |
+|-|-|
+| 3002.00 | R$ 80.36 |
+| 1701.12 | R$ Tax-exempt |
+| 4520.00 | R$ 355.60 |
