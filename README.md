@@ -163,3 +163,15 @@ In | Out
 | 25.00 | Range (0, 25) |
 | 100.00 | Range (75, 100) |
 | -25.02 | Number out of range |
+
+### <ins>Exercise 07</ins>
+
+#### Read two values with one decimal place, x and y, representing the coordinates of a point in the Cartesian plane. Determine which quadrant the point belongs to, or whether it lies on one of the axes or at the origin (x = 0 and y = 0). If the point is at the origin, print "Origen". If the point lies on an axis, print "X-axis or "Y-axis", as appropriate.
+
+#### Example: 
+
+| In | Out |
+|-|-|
+| 4.5 -2.2 | Q4 |
+| 0.1 0.1 | Q1 |
+| 0.0 0.0 | Origen |
