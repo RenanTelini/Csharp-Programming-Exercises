@@ -200,3 +200,18 @@ In | Out
 | 3002.00 | R$ 80.36 |
 | 1701.12 | R$ Tax-exempt |
 | 4520.00 | R$ 355.60 |
+
+## Repetitive Structure
+
+### <ins>Exercise 01</ins>
+
+#### Write a program that repeatedly prompts the user for a password untill the correct one is entered. For each incorrect password, display the message "Incorrect password! Enter another password:". When the correct password is entered, display the message "Access Granted" and terminate the program. Assume that the correct password is 2002.
+
+#### Example: 
+
+| In | Out |
+|:-:|:-:|
+| 2200 | Incorrect password! Enter another password: |
+| 1020 | Incorrect password! Enter another password: |
+| 2022 | Incorrect password! Enter another password: |
+| 2002 | Access Granted |
