@@ -232,12 +232,17 @@ In | Out
 
 ### <ins>Exercise 03</ins>
 
-#### 
+#### A Gas Station wants to determine which type of fuel its customers prefer. Write a program that reads the type of fuel purchased, using the following codes: 1 for Ethanol, 2 for Gasoline, 3 for Diesel, and 4 to end the input.
 
-
+#### If an invalid code is entered (anything other than 1, 2, 3 or 4), the program should continue requesting a new code until a valid one is provided. The program terminates when the code 4 is entered. Finally, display the message "Thank you very much!", followed by the number of customers who selected each type of fuel, as shown in the example.
 
 #### Example: 
 
 | In | Out |
 |:-:|:-:|
-| 
+| 8 | Thank you very much! Ethanol: 1 Gasoline: 2 Diesel: 0 |
+| 1 | |
+| 7 | |
+| 2 | |
+| 2 | |
+| 4 | |
