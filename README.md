@@ -229,3 +229,15 @@ In | Out
 | -8 -1 | Third
 | -7 1 | Second
 | 0 2 | 
+
+### <ins>Exercise 03</ins>
+
+#### 
+
+
+
+#### Example: 
+
+| In | Out |
+|:-:|:-:|
+| 
