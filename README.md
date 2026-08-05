@@ -200,3 +200,32 @@ In | Out
 | 3002.00 | R$ 80.36 |
 | 1701.12 | R$ Tax-exempt |
 | 4520.00 | R$ 355.60 |
+
+## Repetitive Structure
+
+### <ins>Exercise 01</ins>
+
+#### Write a program that repeatedly prompts the user for a password untill the correct one is entered. For each incorrect password, display the message "Incorrect password! Enter another password:". When the correct password is entered, display the message "Access Granted" and terminate the program. Assume that the correct password is 2002.
+
+#### Example: 
+
+| In | Out |
+|:-:|:-:|
+| 2200 | Incorrect password! Enter another password: |
+| 1020 | Incorrect password! Enter another password: |
+| 2022 | Incorrect password! Enter another password: |
+| 2002 | Access Granted |
+
+### <ins>Exercise 01</ins>
+
+#### Write a program that reads the (X, Y) coordinates of an indeterminate number of points in the Cartesian plane. For each point, print the quadrant to which it belongs. The program should terminate when at least one of the coordinates is zero. In that case, no output should be produced.
+
+#### Example: 
+
+| In | Out |
+|:-:|:-:|
+| 2 2 | First
+| 3 -2 | Fourth
+| -8 -1 | Third
+| -7 1 | Second
+| 0 2 | 
