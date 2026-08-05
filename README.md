@@ -215,3 +215,17 @@ In | Out
 | 1020 | Incorrect password! Enter another password: |
 | 2022 | Incorrect password! Enter another password: |
 | 2002 | Access Granted |
+
+### <ins>Exercise 02</ins>
+
+#### Write a program that reads the (X, Y) coordinates of an indeterminate number of points in the Cartesian plane. For each point, print the quadrant to which it belongs. The program should terminate when at least one of the coordinates is zero. In that case, no output should be produced.
+
+#### Example: 
+
+| In | Out |
+|:-:|:-:|
+| 2 2 | First
+| 3 -2 | Fourth
+| -8 -1 | Third
+| -7 1 | Second
+| 0 2 | 
