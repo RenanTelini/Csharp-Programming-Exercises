@@ -246,3 +246,18 @@ In | Out
 | 2 | |
 | 2 | |
 | 4 | |
+
+## Repetitive Structure - For
+
+### <ins>Exercise 01</ins>
+
+#### Read an integer x. Then, print all odd numbers from 1 to x, one per line, including x if it is odd.
+
+#### Example: 
+
+| In | Out |
+|:-:|:-:|
+| 8 | 1 |
+|   | 3 |
+|   | 5 |
+|   | 7 |
