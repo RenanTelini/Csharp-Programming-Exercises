@@ -276,3 +276,16 @@ In | Out
 | 10 |
 | -25 |
 | 32 |
+
+### <ins>Exercise 03</ins>
+
+#### Read an integer N, representing the number of test cases. Each test case consists of three real numbers, each with one decimal place. For each test case, calculate and display the weighted average, where the weights are 2 for the first value, 3 for the second, and 5 for the third.
+
+#### Example: 
+
+| Input | Output |
+| :-- | --: |
+| 3 | |
+| 6.5 4.3 6.2 | 5.7 |
+| 5.1 4.2 8.1 | 6.3 |
+| 8.0 9.0 10.0 | 9.3 |
