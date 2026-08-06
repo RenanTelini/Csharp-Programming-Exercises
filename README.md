@@ -261,3 +261,18 @@ In | Out
 |   | 3 |
 |   | 5 |
 |   | 7 |
+
+### <ins>Exercise 02</ins>
+
+#### Read an integer N, which represents the number of integer values to be read next. Determine how many of these values fall within the interval [10, 20] and how many fall outside it. Display the results as shown in the example, using the word "in" for values within the interval and "out" for values outside it.
+
+#### Example: 
+
+| Input | Output |
+| :-- | --: |
+| 5 | 2 in 3 out |
+| 14 |
+| 123 |
+| 10 |
+| -25 |
+| 32 |
