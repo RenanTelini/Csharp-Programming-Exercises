@@ -289,3 +289,16 @@ In | Out
 | 6.5 4.3 6.2 | 5.7 |
 | 5.1 4.2 8.1 | 6.3 |
 | 8.0 9.0 10.0 | 9.3 |
+
+### <ins>Exercise 04</ins>
+
+#### Write a program that reads an integer N. Then, read N pairs of numbers and, for each pair, display the result of dividing the first number by the second. If the denominator is zero, display the message: "Impossible to calculate!".
+
+#### Example: 
+
+| Input | Output |
+| :--: | :--: |
+| 3 |  |
+| 3 -2 | -1.5 |
+| -8 0 | Impossible to calculate! |
+| 0 8 | 0.0 |
