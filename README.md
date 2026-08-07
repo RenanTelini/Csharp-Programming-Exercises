@@ -8,6 +8,8 @@
 
 #### Write a program to read two integers and display their sum on the screen with an explanatory message, as shown in the examples.
 
+#### Example:
+
 | In | Out |
 |:--:|:--:|
 |10| Sum results: 40|
@@ -20,8 +22,10 @@
 #### Use the formula: area = π × radius²
 #### Assume: π = 3.14159
 
+#### Example:
+
 | In | Out |
-|-|-|
+|:-:|:-:|
 | 2.00 | Area = 12.5664 |
 |100.64| Area = 31819.3103 |
 
@@ -47,10 +51,8 @@
 #### Example:
 
 In | Out
-:-: | :-:
-25 | Number = 25 Salary = U$ 550.50
-100 |
-5.50 |
+:- | :-
+25 <br>100 <br>5.50 | Number = 25 <br>Salary = U$ 550.50
 
 ### <ins>Exercise 05</ins>
 
@@ -60,12 +62,7 @@ In | Out
 
 | In | Out
 | :-: | :-: 
-| 12 | Total to be paid: U$ 15.50 |
-| 1 |
-| 5.30 |
-| 16 |
-| 2 |
-| 5.10 |
+| 12 1 5.30 <br>16 2 5.10 | Total to be paid: U$ 15.50 |
 
 ### <ins>Exercise 06</ins>
 
@@ -84,18 +81,16 @@ In | Out
 #### Example: 
 
 | In | Out
-| :-: | :-: |
-| 3.0 4.0 5.2 | Triangle: 7.800 
-||Circle: 84.949 
-||Trapezoid: 18.200 
-||Square: 16.000 
-||Rectangle: 12.000
+| :-: | :- |
+| 3.0 4.0 5.2 | Triangle: 7.800 <br>Circle: 84.949 <br>Trapezoid: 18.200 <br>Square: 16.000 <br>Rectangle: 12.000
 
 ## Conditional Structure
 
 ### <ins>Exercise 01</ins>
 
 #### Write a program to read an integer and determine whether it is negative.
+
+#### Example:
 
 | In | Out |
 |:-:|:-:|
@@ -132,7 +127,7 @@ In | Out
 #### Example: 
 
 | In | Out |
-|-|-|
+|:-:|:-:|
 | 16 2 | The game lasted: 10 hour(s) |
 | 2 16 | The game lasted: 14 hour(s) |
 | 0 0 | The game lasted: 24 hour(s) |
@@ -144,7 +139,7 @@ In | Out
 #### Example: 
 
 | Code | Specification | Price |
-|:--|:--:|--:|
+|:--:|:--:|:--:|
 | 1 | Hot Dog | $ 4.00 |
 | 2 | Cheeseburguer with Lettuce and Tomato | $ 4.50 |
 | 3 | Bacon Cheeseburguer | $ 5.00|
@@ -158,7 +153,7 @@ In | Out
 #### Example: 
 
 | In | Out |
-|-|-|
+|:-:|:-:|
 | 25.01 | Range (25, 50) |
 | 25.00 | Range (0, 25) |
 | 100.00 | Range (75, 100) |
@@ -171,7 +166,7 @@ In | Out
 #### Example: 
 
 | In | Out |
-|-|-|
+|:-:|:-:|
 | 4.5 -2.2 | Q4 |
 | 0.1 0.1 | Q1 |
 | 0.0 0.0 | Origen |
@@ -196,12 +191,12 @@ In | Out
 #### Example: 
 
 | In | Out |
-|-|-|
+|:-:|:-:|
 | 3002.00 | R$ 80.36 |
-| 1701.12 | R$ Tax-exempt |
+| 1701.12 | Tax-exempt |
 | 4520.00 | R$ 355.60 |
 
-## Repetitive Structure
+## Repetitive Structure - While
 
 ### <ins>Exercise 01</ins>
 
@@ -239,13 +234,8 @@ In | Out
 #### Example: 
 
 | In | Out |
-|:-:|:-:|
-| 8 | Thank you very much! Ethanol: 1 Gasoline: 2 Diesel: 0 |
-| 1 | |
-| 7 | |
-| 2 | |
-| 2 | |
-| 4 | |
+|:-:|:-|
+| 8 <br>1 <br>7 <br>2 <br>2 <br>4 | Thank you very much! <br>Ethanol: 1 <br>Gasoline: 2 <br>Diesel: 0 |
 
 ## Repetitive Structure - For
 
@@ -257,10 +247,7 @@ In | Out
 
 | In | Out |
 |:-:|:-:|
-| 8 | 1 |
-|   | 3 |
-|   | 5 |
-|   | 7 |
+| 8 | 1 <br> 3 <br> 5<br> 7 |
 
 ### <ins>Exercise 02</ins>
 
@@ -268,14 +255,9 @@ In | Out
 
 #### Example: 
 
-| Input | Output |
-| :-- | --: |
-| 5 | 2 in 3 out |
-| 14 |
-| 123 |
-| 10 |
-| -25 |
-| 32 |
+| In | Out |
+| :--: | :-- |
+| 5 <br>14 <br>123 <br>10 <br>-25 <br>32 | 2 in <br>3 out |
 
 ### <ins>Exercise 03</ins>
 
@@ -283,12 +265,9 @@ In | Out
 
 #### Example: 
 
-| Input | Output |
-| :-- | --: |
-| 3 | |
-| 6.5 4.3 6.2 | 5.7 |
-| 5.1 4.2 8.1 | 6.3 |
-| 8.0 9.0 10.0 | 9.3 |
+| In | Out |
+| :--: | :--: |
+| 3 <br>6.5 4.3 6.2 <br>5.1 4.2 8.1 <br>8.0 9.0 10.0 | 5.7 <br>6.3 <br> 9.3 |
 
 ### <ins>Exercise 04</ins>
 
@@ -296,7 +275,7 @@ In | Out
 
 #### Example: 
 
-| Input | Output |
+| In | Out |
 | :--: | :--: |
 | 3 |  |
 | 3 -2 | -1.5 |
@@ -309,7 +288,7 @@ In | Out
 
 #### Example: 
 
-| Input | Output |
+| In | Out |
 | :--: | :--: |
 | 4 | 24 |
 | 1 | 1 |
@@ -322,12 +301,9 @@ In | Out
 
 #### Example: 
 
-| Input | Output |
+| In | Out |
 | :--: | :--: |
-| 6 | 1 |
-|   | 2 |
-|   | 3 |
-|   | 6 |
+| 6 | 1 <br> 2 <br>3 <br>6 |
 
 ### <ins>Exercise 07</ins>
 
@@ -335,10 +311,6 @@ In | Out
 
 #### Example: 
 
-| Input | Output |
+| In | Out |
 | :--: | :-- |
-| 5 | 1 1 1
-|  | 2 4 8 |
-|  | 3 9 27 |
-|  | 4 16 64 |
-|  | 5 25 125 |
+| 5 | 1 1 1 <br> 2 4 8 <br> 3 9 27 <br> 4 16 64 <br> 5 25 125 |
