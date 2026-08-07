@@ -328,3 +328,17 @@ In | Out
 |   | 2 |
 |   | 3 |
 |   | 6 |
+
+### <ins>Exercise 07</ins>
+
+#### Write a program that reads a positive integer N. Then, print N lines, from 1 to N. For each line, print the current number, its square, and its cube, as shown in the example.
+
+#### Example: 
+
+| Input | Output |
+| :--: | :-- |
+| 5 | 1 1 1
+|  | 2 4 8 |
+|  | 3 9 27 |
+|  | 4 16 64 |
+|  | 5 25 125 |
