@@ -315,3 +315,16 @@ In | Out
 | 1 | 1 |
 | 5 | 120 |
 | 0 | 1 |
+
+### <ins>Exercise 06</ins>
+
+#### Write a program that reads an integer N and prints all of its divisors.
+
+#### Example: 
+
+| Input | Output |
+| :--: | :--: |
+| 6 | 1 |
+|   | 2 |
+|   | 3 |
+|   | 6 |
