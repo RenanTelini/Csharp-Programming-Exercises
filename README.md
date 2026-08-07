@@ -302,3 +302,16 @@ In | Out
 | 3 -2 | -1.5 |
 | -8 0 | Impossible to calculate! |
 | 0 8 | 0.0 |
+
+### <ins>Exercise 05</ins>
+
+#### Write a program that reads an integer N, calculates its factorial, and prints the result. The factorial of N is defined as: N × (N - 1) × (N - 2) × ... × 1. By definition, the factorial of 0 is 1.
+
+#### Example: 
+
+| Input | Output |
+| :--: | :--: |
+| 4 | 24 |
+| 1 | 1 |
+| 5 | 120 |
+| 0 | 1 |
